@@ -1,0 +1,47 @@
+2020-10-01 21:07:28,960 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-01 21:07:35,593 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:15:44,185 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:15:51,240 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:17:20,930 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:17:27,529 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-05 21:26:58,221 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-05 21:27:04,843 - logger_File -INFO - Login to MyAccount   undefined
+2020-10-17 12:06:37,561 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-17 12:06:41,823 - logger_File -INFO - Retail page is opened
+2020-10-17 12:06:41,832 - logger_File -INFO - Page title  is verified
+2020-10-17 12:06:42,545 - logger_File -INFO - User click on My Account
+2020-10-17 12:06:42,650 - logger_File -INFO - Register Account for new Retail user   passed
+2020-10-17 12:08:39,346 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-17 12:08:42,400 - logger_File -INFO - Retail page is opened
+2020-10-17 12:08:42,407 - logger_File -INFO - Page title  is verified
+2020-10-17 12:08:43,187 - logger_File -INFO - User click on My Account
+2020-10-17 12:08:43,288 - logger_File -INFO - Register Account for new Retail user   passed
+2020-10-17 12:10:44,972 - logger_File -INFO - Scenario Login to MyAccount Started 
+2020-10-17 12:10:48,382 - logger_File -INFO - Retail page is opened
+2020-10-17 12:10:48,391 - logger_File -INFO - Page title  is verified
+2020-10-17 12:10:49,208 - logger_File -INFO - User click on My Account
+2020-10-17 12:10:49,581 - logger_File -INFO - User click on Login
+2020-10-17 12:10:53,194 - logger_File -INFO - User enter email address
+2020-10-17 12:10:53,258 - logger_File -INFO - User enter password
+2020-10-17 12:10:54,217 - logger_File -INFO - User click on Login button
+2020-10-17 12:10:54,793 - logger_File -INFO - Login to MyAccount   passed
+2020-10-19 19:59:52,816 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 19:59:57,738 - logger_File -INFO - Retail page is opened
+2020-10-19 19:59:57,747 - logger_File -INFO - Page title  is verified
+2020-10-19 19:59:58,429 - logger_File -INFO - User click on My Account
+2020-10-19 19:59:59,192 - logger_File -INFO - user clicked on Register
+2020-10-19 19:59:59,729 - logger_File -INFO - user completed Register form with required information
+2020-10-19 20:29:37,024 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 20:29:51,278 - logger_File -INFO - Retail page is opened
+2020-10-19 20:29:51,285 - logger_File -INFO - Page title  is verified
+2020-10-19 20:29:51,957 - logger_File -INFO - User click on My Account
+2020-10-19 20:29:52,836 - logger_File -INFO - user clicked on Register
+2020-10-19 20:29:53,283 - logger_File -INFO - user completed Register form with required information
+2020-10-19 20:29:59,328 - logger_File -INFO - Register Account for new Retail user   failed
+2020-10-19 20:31:25,789 - logger_File -INFO - Scenario Register Account for new Retail user Started 
+2020-10-19 20:31:30,495 - logger_File -INFO - Retail page is opened
+2020-10-19 20:31:30,504 - logger_File -INFO - Page title  is verified
+2020-10-19 20:31:31,177 - logger_File -INFO - User click on My Account
+2020-10-19 20:31:32,024 - logger_File -INFO - user clicked on Register
+2020-10-19 20:31:32,481 - logger_File -INFO - user completed Register form with required information
+2020-10-19 20:31:38,710 - logger_File -INFO - Register Account for new Retail user   failed
